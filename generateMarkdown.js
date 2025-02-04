@@ -38,5 +38,4 @@ function generateMarkdown(data) {
   }
   
   // Export function
-  export default generateMarkdown;
-  
+export default generateMarkdown;
